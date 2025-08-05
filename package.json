@@ -1,0 +1,33 @@
+{
+  "name": "react_p",
+  "version": "1.0.0",
+  "description": "This is react learning tutorial for every audience present out there",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayush-bp/react-p.git"
+  },
+  "keywords": [
+    "rp1",
+    "react",
+    "reactlearning"
+  ],
+  "author": "Aayush Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayush-bp/react-p/issues"
+  },
+  "homepage": "https://github.com/aayush-bp/react-p#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
