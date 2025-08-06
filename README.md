@@ -34,11 +34,11 @@ console.log(heading);
 // document.getElementById("root") is used to get the root element in the HTML file
 // render is the method that is used to render the react element to the DOM that is displaying the h1 tag with the text "Hello world from React!!!" in the root element of the HTML file.
 
-/* <div id = "parent"> 
+<!-- /* <div id = "parent"> 
     <div id = "child">
         <h1 id="heading">Hello From H1 Tag !!!</h1>
     </div>
-</div> */
+</div> */ -->
 
 // To render the above HTML structure using React, we can create a parent and child element as follows:
 
